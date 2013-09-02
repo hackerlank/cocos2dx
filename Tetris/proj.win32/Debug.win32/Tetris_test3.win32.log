@@ -1,0 +1,22 @@
+﻿Build started 2013-5-18 11:26:06.
+     1>Project "D:\cocos2d-xProjects\Tetris_test3\Tetris_test3\proj.win32\Tetris_test3.win32.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug.win32\Tetris_test3.win32.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug.win32\Tetris_test3.win32.unsuccessfulbuild".
+         Touching "Debug.win32\Tetris_test3.win32.lastbuildstate".
+     1>Done Building Project "D:\cocos2d-xProjects\Tetris_test3\Tetris_test3\proj.win32\Tetris_test3.win32.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.51
